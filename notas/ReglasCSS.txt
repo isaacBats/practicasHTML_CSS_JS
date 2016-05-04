@@ -1,0 +1,10 @@
+REGLAS DE CODIFICACION EN CSS
+
+1.- Todos los atributos deben de ir en orden alfabético
+2.- Orden de estilos
+	*. pre-render (las que empiezn con "@")
+	1.- Etiqueta
+	2.- IDs
+	3.- Clases
+3.- Orden alfabético todos los estilos
+4.- Identar y hacer código LINDO
